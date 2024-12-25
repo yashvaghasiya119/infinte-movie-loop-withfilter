@@ -1,0 +1,15 @@
+.infinite-scroll-component{
+  display: grid;
+  grid-template-columns:  auto auto auto auto auto;
+
+}
+.loop{
+  font-size: 1vw;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+}
+.navigation{
+  display: flex;
+  justify-content: space-around;
+}
